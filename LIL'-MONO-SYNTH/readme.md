@@ -1,6 +1,6 @@
 # LIL' MONO SYNTH
 
-The Lil' Mono Synth is a very simple east coast analog synthesizer. It is quite limited compared to commercial synths but it is a fun little device that sounds dirty and quite lofi.
+The Lil' Mono Synth is a very simple east coast style analog synthesizer. It is quite limited compared to commercial synths but it is a fun little device that sounds dirty and quite lofi.
 It contains a sawtooth wave VCO that tracks V/Oct, a square wave sub-oscillator, a simple and dirty sounding resonant VCF, a "VCA" and an attack/release envelope generator
 that can modulate the amplitude and the filter cut-off frequency.
 The VCO doesn't track very precise but okay-ish pitch tracking with +/-5 cents of tracking error can be expected over a span of 4 to 5 octaves. The IC that is used for the VCO is obsolete as through hole part
